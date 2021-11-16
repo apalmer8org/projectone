@@ -61,11 +61,11 @@ input[type="checkbox"] {
 @media screen and (min-width: 900px)	{
 	
 	form	{
-		width: 90%;
+		width: 50%;
 	}
 
 	input {
-		width: 95%;
+		width: 55%;
 		padding: 0.5em;
 	}
 
